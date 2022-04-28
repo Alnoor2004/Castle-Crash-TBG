@@ -1,4 +1,6 @@
 # Castle-Crash-TBG
-This readme is about my TBG game called Castle Crash.
+This readme is about my TBG project called Castle Crash.
 
-bro what are you doing 
+Descrption 
+
+ 
