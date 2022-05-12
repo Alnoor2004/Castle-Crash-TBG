@@ -1,5 +1,5 @@
 # Castle-Crash-TBG
-This readme is about my TBG project called Castle Crash. It is a fantasy world where you play as mutiple characters through out the story including the king, captain of the knight and even as a regular soldier. The point of the game is to defend the castle at all cost through the varius choices in game. 
+This readme is about my TBG project called Castle Crash. It is a fantasy world where you play as mutiple characters through out the story including the king, captain of the knight and even as a regular soldier. The point of the game is to defend the castle at all cost as well as live out there own personal lives through the varius choices in game. 
 
 # Installation
 python 3.7 is needed to run this game 
