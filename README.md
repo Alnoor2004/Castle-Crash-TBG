@@ -8,7 +8,7 @@ python 3.7 is needed to run this game
 python game.py
 
 # Story
-Each Character in the game has seperate stories. When the player starts the game they will get to choose between few characters. Based on their choice they will have different stroies. The knights story focuses on getting stronger. The captain of the knights will focus on leading his troops in battle and the kings stroy will focus on maintaining his kingdom. 
+Each Character in the game has separate stories. When the player starts the game they will get to choose between few characters. Based on their choice they will have different stroies. The knights story focuses on getting stronger. The captain of the knights will focus on leading his troops in battle and the kings stroy will focus on maintaining his kingdom. 
 
 # Playability and Refinement 
 Making choices, saving lives, getting rich, and fighting monsters are only a few of the many things you could do in the game. The length of the stories between the different characters will also vary allowing you to play the game based on how much time you want to spend. 
